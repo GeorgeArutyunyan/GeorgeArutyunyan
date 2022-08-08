@@ -20,7 +20,7 @@ I am beginner Python developer.
 
 --- 
 
--:cowboy_hat_face: In free time, I solve tasks in free online education platform "Stepik" and read Django technical documentation.
+-:cowboy_hat_face: In free time, I solve tasks on free online education platform "Stepik" and read Django technical documentation.
 
 ---
 
