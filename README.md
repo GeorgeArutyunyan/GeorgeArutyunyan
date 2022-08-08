@@ -16,7 +16,7 @@ I am beginner Python developer.
 
 --- 
 
--:nerd_face: At thins moment I study online in Netology school to be "Python Developer".
+-:nerd_face: At this moment I study online in Netology school to be "Python Developer".
 
 --- 
 
@@ -24,7 +24,7 @@ I am beginner Python developer.
 
 ---
 
--:sweat_smile: Now I'm looking to my first job in programming.
+-:sweat_smile: Now I'm looking for my first job in programming.
 
 ---
 
